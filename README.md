@@ -2,6 +2,8 @@
 
 A modern, scroll-animated developer portfolio built with **Next.js 14**, **Tailwind CSS**, and **Framer Motion**.
 
+> **Live deployment:** https://rishabh-s-portfolio-one.vercel.app
+
 ## ✨ Features
 
 - Dark mode terminal/neon aesthetic with grid background and glow effects
